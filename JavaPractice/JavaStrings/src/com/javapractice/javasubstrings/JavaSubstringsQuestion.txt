@@ -1,0 +1,14 @@
+Print the substring in the inclusive range from start to end.
+
+Sample Input
+
+Helloworld
+3 7
+Sample Output
+
+lowo
+Explanation
+
+In the diagram below, the substring is highlighted in green:
+
+substring.png
