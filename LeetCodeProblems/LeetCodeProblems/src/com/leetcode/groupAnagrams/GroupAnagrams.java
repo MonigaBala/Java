@@ -13,7 +13,7 @@ public class GroupAnagrams {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the size of the string array: ");
 		int size = scanner.nextInt();
-		scanner.nextLine(); // Clear the newline after nextInt()
+		scanner.nextLine(); 
 
 		String[] strs = new String[size];
 		System.out.println("Enter the strings:");
